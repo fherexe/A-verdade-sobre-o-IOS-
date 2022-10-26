@@ -1,0 +1,144 @@
+/* Aumentar tamanhos do conteudo principal */
+
+
+header{ /* cabeçalho */
+    padding-left: 13em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #b80000;
+    
+}
+
+nav{    /* navegação global */
+    padding-top: 0.25em;
+    padding-left: 13em;
+    word-spacing: 15px;
+    position: relative; /* ??? */
+    top: 0.5em;
+    padding-bottom: 12px;
+    
+}
+
+.bcc{ /* bbc logo  */
+    position: relative;
+    top: 0.3em;
+}
+
+.bcc:hover{ /*borda bbclogo*/
+    padding-bottom: 7px;
+    border-bottom: 5.5px solid #ffffff;
+}
+
+
+.linkca { /*Linka = navegação global*/
+    text-decoration: none;
+    color: black;
+    
+}
+
+/* hover = ao passar o mouse */
+.linkca:hover {
+    text-decoration: none;
+    border-bottom: 4.9px solid #b80000;
+    padding-bottom: 8px;
+    
+}
+
+h1{
+    font-size:55px;
+    text-align: left;
+}
+
+p{
+    text-align:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3b3b3b;
+    
+
+}
+
+body {
+    margin: 0;
+    font-family: ReithSerif, Helvetica, Arial, sans-serif;
+}
+
+hr {
+    opacity: 25%;
+}
+
+main{
+    padding-left: 13em;
+    padding-bottom: 5em;
+    text-align:justify;
+    max-width:648px;
+
+}
+
+article{
+    max-width: 270px;
+    position: absolute;
+    top: 9em;
+    left: 55em;
+    text-align: left;
+
+}
+
+section{
+    padding-left: 13em;
+    text-decoration: none;
+    color: black;
+    max-width: 400px;
+    position: absolute;
+    top: 29em;
+    left: 42em;
+    text-align: left;
+    line-height:30px;
+    
+}
+
+
+
+
+.linknoticia { /*link dos artigos e noticias */
+    text-decoration: wavy;
+    color: rgba(17, 17, 17, 0.918);
+    font-weight: bold /* negrito */
+}
+
+.linknoticia:hover{
+    color: rgb(0, 0, 0);
+    text-decoration:underline
+
+}
+
+
+
+
+footer{ /* rodapé */
+    padding-top: 1.9em;
+    padding-left: 16em;
+    padding-bottom: 1em;
+    background-color:#222222;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.menção{
+    font-family:'Times New Roman', Times, serif;
+    color: #383838c4;
+
+
+}
+
+div{ /*bbc logo de baixo */
+    padding-left: 13em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #b80000;
+}
+
+.fixlink {
+    color: white;
+    text-decoration: none;
+}
+
