@@ -98,7 +98,7 @@ section{
     color: black;
     max-width: 400px;
     position: absolute;
-    top: 29em;
+    top: 60.5em;
     left: 42em;
     text-align: left;
     line-height:30px;
@@ -150,4 +150,7 @@ div{ /*bbc logo de baixo */
     color: white;
     text-decoration: none;
 }
+
+
+
 
