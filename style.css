@@ -13,7 +13,7 @@ nav{    /* navegação global */
     padding-top: 0.25em;
     padding-left: 13em;
     word-spacing: 15px;
-    position: relative; /* ??? */
+    position: relative; 
     top: 0.5em;
     padding-bottom: 12px;
     
@@ -86,7 +86,7 @@ main{
 article{
     max-width: 270px;
     position: absolute;
-    top: 9em;
+    top: 8.5em;
     left: 55em;
     text-align: left;
 
