@@ -47,14 +47,23 @@ nav{    /* navegação global */
 h1{
     font-size:55px;
     text-align: left;
+    color: #181818;   
 }
 
 p{
     text-align:left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #181818;
-    
+}
 
+h2{
+    text-align:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #181818;   
+}
+
+h3{
+    color: #181818;   
 }
 
 body {
